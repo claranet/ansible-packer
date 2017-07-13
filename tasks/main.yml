@@ -32,6 +32,7 @@
     src: '{{packer_install_dir}}/packer'
     dest: '{{packer_install_parent_dir}}/packer'
     state: link
+    force: yes
 
 - name: cleanup...
   become: yes
