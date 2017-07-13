@@ -27,5 +27,5 @@ galaxy_info:
     - packaging
 
 dependencies:
-  - src: andrewrothstein.unarchive-deps
+  - src: git+ssh://git@bitbucket.org/morea/ansible-role-unarchive-deps.git
     version: v1.0.9
