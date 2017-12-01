@@ -37,3 +37,8 @@ Author Information
 ------------------
 
 Andrew Rothstein <andrew.rothstein@gmail.com>
+
+Note
+----
+
+Forked from https://github.com/andrewrothstein/ansible-packer
